@@ -1,0 +1,19 @@
+lan-talk-tpi/
+├── client/                 # React ফ্রন্টএন্ড
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── context/
+│       ├── services/
+│       └── utils/
+│
+├── server/                 # Node.js ব্যাকএন্ড
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   └── utils/
+│
+└── package.json 
